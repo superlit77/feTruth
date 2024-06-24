@@ -1,1 +1,2 @@
 new_model.bin.trainables.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
+new_model.bin.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
